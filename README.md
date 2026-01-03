@@ -1,2 +1,2 @@
-# Norvaklinktree
-Webpage Linktree style with all the links from Norvak
+# Norvaklinks
+Webpage with all the links from Norvak
